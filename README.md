@@ -48,21 +48,17 @@ Projects emphasize system thinking — from logic and alarm design to operator i
 
 ---
 
-## 📂 Project
+## 📂 Projects
 
-### ✅ Liquid Blending System – Project 1 (Completed)  
-**Tools Used:** Studio 5000, Logix Emulate, FactoryTalk View Studio  
+All portfolio projects will be organized in the [📁 `projects/`](./projects) directory.
 
-A simulated continuous blending system using valve control, PID feedback, and operator interface.
+Each project will include:
+- A dedicated folder with logic files, screenshots, and documentation
+- A `README.md` explaining the system, logic structure, and tools used
+- Work that reflects system-level control, safety, diagnostics, and operator interaction
 
-**Highlights:**  
-- PID control for maintaining fluid level within target range  
-- Analog scaling and real-time tank level simulation  
-- High/Low alarm triggers with valve shutoff logic  
-- Modular logic design for scalability and testing  
-- HMI screen for operator feedback and alarm monitoring
+> ✅ Project 1 (Liquid Blending System) has been added. More to follow.
 
-📁 [View Project Folder →](./projects/liquid_blending_system)
 
 ---
 
