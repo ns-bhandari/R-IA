@@ -1,115 +1,88 @@
-# Robotics & Industrial Automation Portfolio  
-### Neel Bhandari
+# Neel Bhandari – Industrial Automation & Robotics Portfolio
 
-> A project-based portfolio showcasing applied expertise in PLC programming, HMI/SCADA development, robotics integration, industrial networking, functional safety, and IIoT—using industry-standard engineering platforms.
-
----
-
-## 📘 Overview
-
-This portfolio presents a series of hands-on projects reflecting modern industrial automation and robotics practices. Each project demonstrates end-to-end system thinking—from I/O configuration and safety logic to HMI design and robot motion programming.
-
-All work is developed using real-world platforms aligned with international standards and skills commonly sought in advanced manufacturing roles across Ontario and beyond.
+> A project-based portfolio showcasing applied expertise in PLC programming, HMI/SCADA development, robotics integration, industrial networking, and functional safety — using professional engineering tools and real-world control system design practices.
 
 ---
 
-## 🛠️ Tools & Platforms
+## 📘 About This Portfolio
 
-**Control Systems & PLC Programming**  
-- Studio 5000 Logix Designer with Logix Emulate (Allen-Bradley)  
-- Siemens TIA Portal V17 with S7-PLCSIM  
+This repository documents a growing collection of real-world industrial automation projects focused on building reliable, scalable, and safety-integrated systems.
+
+Projects emphasize system thinking — from logic and alarm design to operator interface and robot motion — and follow engineering workflows aligned with modern manufacturing environments.
+
+---
+
+## 🧠 Core Competencies
+
+**Control System Design & PLC Programming**  
+*Studio 5000 Logix Designer, Logix Emulate, TIA Portal V17*  
+- Developing structured PLC programs using Ladder Logic and Structured Text (IEC 61131-3)  
+- Building time-based sequences, counters, and PID control loops for process automation  
+- Implementing interlocks, analog scaling, and logic for safe start/stop operations  
+- Designing modular logic using reusable subroutines, function blocks, and tag aliasing  
+- Simulating, testing, and troubleshooting logic in virtual testbeds
 
 **HMI & SCADA Development**  
-- FactoryTalk View Studio  
-- Siemens WinCC (integrated HMI development in TIA Portal)  
-- Alarm handling, screen design, tag mapping, and data logging
-
-**Robotics Programming & Simulation**  
-- FANUC ROBOGUIDE (TP programming, iRVision integration)  
-- KUKA.Sim (KRL programming, VisionTech, offline commissioning)  
-
-**Functional Safety & Standards**  
-- IEC 61508 and SIL implementation  
-- E-stop logic, safety interlocks, FMEA, redundancy planning  
-- Safe start/stop and fault-tolerant design patterns
-
-**Industrial Networking & IIoT**  
-- Ethernet/IP and PROFINET communication  
-- OPC UA, MQTT fundamentals  
-- Network configuration, diagnostics, and tag exchange
-
----
-
-## 🧠 Skills Demonstrated
-
-**PLC Programming & Industrial Control**  
-- Developed discrete and analog control logic using Ladder Diagram and Structured Text (IEC 61131-3 compliant)  
-- Programmed timers, counters, interlocks, one-shot triggers, comparison, and arithmetic logic  
-- Configured analog I/O channels and integrated PID loops for process control  
-- Applied modular design principles using reusable routines and function blocks in Studio 5000 and TIA Portal  
-
-**HMI & SCADA Systems**  
-- Designed HMI interfaces with control buttons, alarms, status indicators, and operator feedback  
-- Implemented SCADA functions: tag linking, real-time monitoring, alarm handling, and trend visualization  
-- Structured tag databases and ensured consistent I/O mapping across PLC and HMI platforms  
+*FactoryTalk View ME, Siemens WinCC*  
+- Creating dynamic operator screens with indicators, pushbuttons, and alarms  
+- Mapping PLC data to HMI elements with real-time updates and system status  
+- Implementing alarm logic, trending, and basic SCADA diagnostics
 
 **Robotics Programming & Vision Systems**  
-- Created motion logic using FANUC TP programming in ROBOGUIDE, including gripper and sensor coordination  
-- Programmed KUKA robots using KRL with VisionTech integration for object tracking and path adjustment  
-- Executed offline simulations for path testing and virtual commissioning workflows  
+*FANUC ROBOGUIDE, KUKA.Sim, iRVision, VisionTech*  
+- Programming robotic motion paths for pick-and-place operations  
+- Simulating workcells and tool center point paths in 3D environments  
+- Integrating vision systems for object detection and adaptive path control
 
-**Functional Safety & Standards**  
-- Implemented E-stop logic, safety interlocks, feedback validation, and fault-tolerant routines  
-- Applied concepts from IEC 61508, SIL classification, and FMEA methodologies  
-- Designed systems for safe start-up, controlled shutdown, and redundancy  
+**Industrial Networking & Functional Safety**  
+*Ethernet/IP, PROFINET, OPC UA, MQTT (intro level)*  
+- Configuring PLC-device communication using industrial networking protocols  
+- Designing E-stop logic, feedback validation, and fault-tolerant shutdown routines  
+- Applying functional safety principles (SIL levels, FMEA concepts)
 
-**Industrial Networking & IIoT**  
-- Configured Ethernet/IP and PROFINET networks for PLC-device communication  
-- Applied OPC UA and MQTT concepts for edge connectivity and data exchange  
-- Considered cybersecurity and diagnostic readiness in control architecture  
-
-**Project Workflow & Documentation**  
-- Managed source files, version control, and documentation through GitHub  
-- Created I/O lists, tag tables, simulation plans, and logic documentation  
-- Prepared professional project summaries and employer-oriented reflection notes  
+**Engineering Documentation & Workflow**  
+*GitHub, Excel, Rockwell/Siemens utilities*  
+- Creating I/O lists, tag tables, and functional requirement specs  
+- Structuring project files, version control, and logic documentation  
+- Maintaining traceable and readable automation code
 
 ---
 
-<!-- 
-## 📂 Project Index
+## 📂 Project
 
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| [Project 01 – Conveyor Control](./project_01_conveyor_control) | Two-stage conveyor system with safety gate, timed sequencing, and manual confirmation | Studio 5000, Logix Emulate |
-| Project 02 – HMI Interface (upcoming) | Integrated HMI with real-time tag display and system indicators | FactoryTalk View Studio |
-| Project 03 – Siemens Safety Logic (upcoming) | Safety-oriented PLC program using interlocking and feedback validation | TIA Portal, S7-PLCSIM |
-| Project 04 – FANUC Pick-and-Place (upcoming) | Robotic part-sorting logic with motion paths and sensor-based execution | FANUC ROBOGUIDE |
-| Project 05 – KUKA VisionTech System (upcoming) | Vision-guided robot programming with KRL logic and object detection | KUKA.Sim |
-| Project 06 – SCADA Dashboard (upcoming) | Alarm management and trend monitoring for system diagnostics | FactoryTalk View Studio |
-| Project 07 – Capstone Integration (upcoming) | Full system integration: PLC, HMI, SCADA, and robot coordination | Multi-platform |
+### ✅ Liquid Blending System – Project 1 (Completed)  
+**Tools Used:** Studio 5000, Logix Emulate, FactoryTalk View Studio  
 
-> Each project folder includes code files, logic screenshots, I/O configuration, and professional documentation.
--->
+A simulated continuous blending system using valve control, PID feedback, and operator interface.
+
+**Highlights:**  
+- PID control for maintaining fluid level within target range  
+- Analog scaling and real-time tank level simulation  
+- High/Low alarm triggers with valve shutoff logic  
+- Modular logic design for scalability and testing  
+- HMI screen for operator feedback and alarm monitoring
+
+📁 [View Project Folder →](./projects/liquid_blending_system)
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Focus
 
-I am actively seeking opportunities in:
+I’m pursuing engineering roles in:
 
-- Automation & Controls Engineering  
-- PLC, HMI, and SCADA Programming  
-- Robotics Integration and Motion Systems  
-- Smart Manufacturing and IIoT Implementation
+- Industrial Automation & Control Systems  
+- Robotics Programming & Integration  
+- PLC/HMI/SCADA Development  
+- Smart Manufacturing and IIoT Systems
 
-This portfolio reflects my hands-on experience, understanding of engineering standards, and ability to deliver high-reliability automation solutions in both simulation and real-world environments.
+This portfolio reflects end-to-end project ownership, not just code — combining engineering discipline, safety integration, and system-level thinking.
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn**: https://www.linkedin.com/in/ns-bhandari/  
-**Email**: neelsbhandari@gmail.com   
-**Portfolio Website**: Coming soon via GitHub Pages
+📧 **Email**: neelsbhandari@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/ns-bhandari](https://www.linkedin.com/in/ns-bhandari)  
+🌐 **Portfolio Website**: *(Coming soon via GitHub Pages)*
 
 ---
