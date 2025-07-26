@@ -31,10 +31,6 @@ Each project is developed to reflect structured programming practices, diagnosti
 
 ## 📄 Contact
 
-📧 [Email]: (mailto:neelsbhandari@gmail.com)
-🔗 [LinkedIn]: (https://www.linkedin.com/in/ns-bhandari)
-
-📄 [Download Résumé](../resume.pdf)  
 📧 [neelsbhandari@gmail.com](mailto:neelsbhandari@gmail.com)  
 🔗 [linkedin.com/in/ns-bhandari](https://www.linkedin.com/in/ns-bhandari)
 
