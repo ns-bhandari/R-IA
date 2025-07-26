@@ -15,9 +15,8 @@ Each project is organized into its own folder and includes:
 
 | Folder | Project Title | Status |
 |--------|----------------|--------|
-| [`liquid_blending_system`](./liquid_blending_system) | Liquid Blending System | ✅ Completed |
+| [`Project01_PumpControlSystem`](./Project01_PumpControlSystem) | Pump Control System with PID & Alarm Handling |
 
 > More projects will be added soon as development continues.
 
 ---
-
