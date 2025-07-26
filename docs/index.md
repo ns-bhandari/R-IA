@@ -21,7 +21,7 @@ Each project is developed to reflect structured programming practices, diagnosti
 
 ## 📂 Featured Projects
 
-- [🚰 Project 1: Pump Control System with PID & Alarms](Project01_PumpControlSystem/)  
+- [🚰 Project 1: Pump Control System with PID & Alarm Handling](Project01_PumpControlSystem/)  
   Ladder-based process control with analog scaling, flow feedback, and alarm logic
 
 
