@@ -57,7 +57,6 @@ Each project will include:
 - A `README.md` explaining the system, logic structure, and tools used
 - Work that reflects system-level control, safety, diagnostics, and operator interaction
 
-> ✅ Project 1 (Liquid Blending System) has been added. More to follow.
 
 
 ---
