@@ -15,7 +15,7 @@ Each project is organized into its own folder and includes:
 
 | Folder | Project Title |
 |--------|----------------|
-| [`Project01_PumpControlSystem`](./Project01_PumpControlSystem) | Pump Control System with PID & Alarm Handling |
+| [`Project01_PumpControlSystem`](.projects/Project01_PumpControlSystem) | Pump Control System with PID & Alarm Handling |
 
 > More projects will be added soon as development continues.
 
