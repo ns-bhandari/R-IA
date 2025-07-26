@@ -13,8 +13,8 @@ Each project is organized into its own folder and includes:
 
 ## 📂 Current Projects
 
-| Folder | Project Title | Status |
-|--------|----------------|--------|
+| Folder | Project Title |
+|--------|----------------|
 | [`Project01_PumpControlSystem`](./Project01_PumpControlSystem) | Pump Control System with PID & Alarm Handling |
 
 > More projects will be added soon as development continues.
