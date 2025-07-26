@@ -1,5 +1,1 @@
-# 🚰 Project 1: Pump Control System (PLC + PID + HMI-Ready)
-
-This project simulates an industrial pump system using Studio 5000 and Logix Emulate. It includes start/stop logic, PID-based auto mode, and prepares for HMI/SCADA integration.
-
 
