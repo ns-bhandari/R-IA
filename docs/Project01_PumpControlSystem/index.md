@@ -15,18 +15,6 @@ This project simulates a real-world pump-tank automation system using **Rockwell
 
 ---
 
-## 🖼️ HMI Design (Planned)
-
-A basic HMI screen (to be built in FactoryTalk View ME or Ignition) will visualize:
-- Tank level
-- Alarm indicators
-- Mode status (manual/auto)
-- PID setpoint entry
-
-> 📸 Screenshot will be added here soon.
-
----
-
 ## 📄 Project Reports
 
 ### 1. Summary Report
@@ -47,9 +35,20 @@ Structured ladder code screenshots for all key routines (JSRs, IO mapping, PID, 
 
 ---
 
-## 💾 Project Files
+## 🖼️ HMI Screens (FactoryTalk View)
 
-- 🧠 [Download Logic File (Studio 5000)](NB_Pump_Control_System.L5X)
+### Auto Mode Active with Normal Tank Level
+![HMI Screen - Auto Mode](HMI1.png)
+
+### High-Level Alarm Active
+![HMI Screen - HH Alarm](HMI2.png)
+
+These screens visualize:
+- Process variables (Tank Level %, Flow LPM, VFD Speed %)
+- Real-time system state: Manual vs Auto
+- Alarm activation and reset handling
+- Mode and start/stop control logic
+
 
 ---
 
