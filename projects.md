@@ -6,5 +6,5 @@ nav_order: 2
 
 # 🔧 Featured Projects
 
-## 🚰 [Project 1: Pump Control System](Project01_PumpControlSystem/)
+## 🚰 [Project 1: Pump Control System](projects/Project01_PumpControlSystem/)
 PID-based pump logic with auto/manual modes, alarm handling, analog scaling, and HMI design.
