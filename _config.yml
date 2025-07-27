@@ -10,5 +10,3 @@ nav:
     url: "/projects"
   - title: "About Me"
     url: "/about"
-  - title: "Learning Plan"
-    url: "/learning-roadmap"
