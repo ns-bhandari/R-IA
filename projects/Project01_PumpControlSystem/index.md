@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Project 1 - Pump Control System with PID & Alarm Handling
 nav_exclude: true
 ---
 
