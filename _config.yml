@@ -1,0 +1,13 @@
+title: Neel Bhandari's Robotics and Industrial Automation Portfolio
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "About Me"
+    url: "/about"
+  - title: "Learning Plan"
+    url: "/learning-roadmap"
