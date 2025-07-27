@@ -6,7 +6,7 @@ nav_order: 1
 
 # 👨‍💻 Neel Bhandari's  Robotics & Industrial Automation Portfolio
 
-Welcome to my project-based portfolio showcasing real-world skills in **industrial automation, robotic integration, and control system design**. This site documents hands-on learning across **PLC programming**, **HMI/SCADA development**, **robot motion**, and **networked industrial systems** — using tools widely adopted in manufacturing environments like **Studio 5000**, **TIA Portal**, **FANUC RoboGuide**, and **KUKA.Sim**.
+Welcome to my [project](projects)-based portfolio showcasing real-world skills in **industrial automation, robotic integration, and control system design**. This site documents hands-on learning across **PLC programming**, **HMI/SCADA development**, **robot motion**, and **networked industrial systems** — using tools widely adopted in manufacturing environments like **Studio 5000**, **TIA Portal**, **FANUC RoboGuide**, and **KUKA.Sim**.
 
 Each project is designed to reflect professional engineering workflows — structured logic, process safety, diagnostics, and operator usability — aligned with **IEC 61131-3 programming standards** and modern factory practices.
 
