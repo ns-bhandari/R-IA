@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Projects
+title: None
 nav_order: 2
 has_children: true
 ---
 
-# 🛠️ Projects
+# 🛠️ None
 
 Explore all automation and robotics projects below.
