@@ -50,7 +50,7 @@ Projects emphasize system thinking — from logic and alarm design to operator i
 
 ## 📂 Projects
 
-All portfolio projects will be organized in the [📁 `Projects/`](./docs/Projects) directory.
+All portfolio projects will be organized in the [📁 `Projects/`](./docs) directory.
 
 Each project will include:
 - A dedicated folder with logic files, screenshots, and documentation
