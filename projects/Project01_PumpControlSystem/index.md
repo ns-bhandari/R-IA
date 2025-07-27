@@ -57,4 +57,4 @@ These screens visualize:
 
 ---
 
-[🔙 Back to Homepage](../projects)
+[🔙 Back to Homepage](../)
