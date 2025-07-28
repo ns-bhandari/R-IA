@@ -3,131 +3,132 @@ layout: default
 title: Learning Roadmap
 nav_order: 4
 ---
-# 🧭 Learning Roadmap: Industrial Automation & Robotics
 
-*A growing, module-based map of key technologies, tools, and systems I'm actively learning and applying through hands-on projects.*
+
+# 🧭 Learning Roadmap: Robotics & Industrial Automation# 🧠 Learning Roadmap: Industrial Automation & Robotics
+
+*A modular map of essential technical topics, tools, and real-world systems I'm learning and building — aligned with IEC, ISA, and Industry 4.0 standards.*
 
 ---
 
-### 🧠 PLC Programming & Control Logic
+## 🔌 Module 1: PLC Programming & Control Logic
 
 **Learning Focus:**
-- Developing structured logic using Ladder and Structured Text (IEC 61131-3)
-- Building time-based sequences, counters, interlocks, and analog scaling
-- Integrating PID controllers for closed-loop control systems
-- Structuring programs using routines, UDTs, and AOIs
+- Designing ladder logic and structured programs (IEC 61131‑3)
+- Timers, counters, sequences, analog I/O, and PID loops
+- UDTs, AOIs, and state machines for modular design
+- Interlocks, failsafe logic, diagnostics, and simulation testing
 
-**Tools:**
-- Rockwell Studio 5000 + Logix Emulate  
-- Siemens TIA Portal  
-- CODESYS (ST + Function Blocks)
+**Tools:**  
+Rockwell Studio 5000 + Logix Emulate  
+Siemens TIA Portal (S7-1200/1500)  
+CODESYS (Structured Text, FBD)
 
 ---
 
-### 🖥️ HMI & SCADA Design
+## 🖥️ Module 2: HMI & SCADA Development
 
 **Learning Focus:**
-- Designing operator interfaces with indicators, trends, and alarms
-- Mapping PLC data to HMI elements using tags and real-time feedback
-- Implementing alarm acknowledgment, system mode toggles, and diagnostics
-- Exploring SCADA workflows and remote monitoring concepts
+- Designing operator screens with status indicators, graphs, alarms, and toggles
+- Real-time tag mapping between PLCs and HMI
+- Alarm systems with acknowledgment and reset logic
+- Exploring SCADA-level tools and architecture
 
-**Tools:**
-- FactoryTalk View ME  
-- Siemens WinCC (TIA Portal)  
-- Ignition (for SCADA prototyping)
+**Tools:**  
+FactoryTalk View ME  
+Siemens WinCC  
+Ignition SCADA (Perspective)
 
 ---
 
-### 🌐 Industrial Networking & Communication
+## 🌐 Module 3: Industrial Networking & Communication
 
 **Learning Focus:**
-- Understanding protocols like Ethernet/IP, PROFINET, and OPC UA
-- Configuring reliable PLC-device communication and tag exchange
-- Simulating networked environments for diagnostics and system integration
-- Exploring MES and IIoT connectivity foundations
+- Understanding Ethernet/IP, PROFINET, OPC UA, and MQTT
+- PLC-HMI-Robot tag exchange over industrial networks
+- Packet-level diagnostics and network simulation
+- Intro to MES integration, ISA-95 layers, and ICS zone architecture
 
-**Tools:**
-- Wireshark (for traffic analysis)  
-- Rockwell/Siemens comm utilities  
-- OPC tools (Ignition UA Server, UaExpert)
+**Tools:**  
+Wireshark  
+RSLinx / TIA Diagnostic Tools  
+Ignition OPC UA, UaExpert
 
 ---
 
-### 🦺 Functional Safety & System Diagnostics
+## 🦺 Module 4: Functional Safety & Diagnostics
 
 **Learning Focus:**
-- Designing safety logic using latching, interlocks, and reset routines
-- Implementing alarm systems with delay, one-shots, and fault indicators
-- Understanding SIL levels, FMEA principles, and safety zoning
-- Simulating E-Stop and light curtain scenarios in virtual testbeds
+- Safety logic: E-stop, door locks, interlocks, alarm resets
+- Safety standards: ISO 13849, IEC 61508/61511
+- SIL/PL concepts, fault tolerance, and safety validation
+- Emulated testing of safety routines and system responses
 
-**Tools:**
-- Rockwell GuardLogix / Siemens Safety PLCs (planned)  
-- Studio 5000, TIA Portal  
-- Safety I/O simulation via emulator
+**Tools:**  
+Rockwell GuardLogix  
+Siemens Safety PLC (TIA Safety)  
+Safety requirement specs, latch logic
 
 ---
 
-### 🤖 Robotics Programming & Integration
+## 🤖 Module 5: Robotics Programming & Integration
 
 **Learning Focus:**
-- Teaching TCP paths and joint movements for robotic arms
-- Building logic for pick-place tasks with conveyor and sensor coordination
-- Designing handshaking logic between PLC and robot controllers
-- Exploring 3D robot cell simulation and cycle validation
+- Jogging, teaching, and programming industrial robots
+- Tool center point (TCP), frames, motion paths
+- PLC-robot synchronization using handshaking
+- Pick-and-place sequencing and palletizing logic
 
-**Tools:**
-- FANUC RoboGuide  
-- KUKA.Sim  
-- ABB RobotStudio *(planned)*
+**Tools:**  
+FANUC RoboGuide  
+KUKA.Sim  
+ABB RobotStudio *(planned)*
 
 ---
 
-### 👁️ Vision Systems & Adaptive Control
+## 📸 Module 6: Vision Systems & Adaptive Control
 
 **Learning Focus:**
-- Using vision sensors for object detection and decision logic
-- Aligning coordinate frames for camera-to-robot calibration
-- Integrating visual feedback into control systems
-- Exploring adaptive path logic based on part presence and orientation
+- Object detection, frame alignment, lighting setup
+- Camera calibration for robot or PLC-based vision control
+- Vision-guided movement and logic adaptation
+- AI-based vision tools and visual feedback loops
 
-**Tools:**
-- Cognex In-Sight Explorer  
-- Keyence Vision Tools  
-- iRVision (FANUC)
+**Tools:**  
+Cognex In-Sight Explorer  
+FANUC iRVision  
+Keyence VisionTech
 
 ---
 
-### 🧪 Digital Twin & System Simulation
+## 🧪 Module 7: Digital Twin & Simulation
 
 **Learning Focus:**
-- Creating virtual replicas of automation systems
-- Testing PLC logic and HMI behavior in simulated environments
-- Using digital twins for commissioning, optimization, and fault testing
-- Exploring integration with robot cells and vision systems
+- Virtual testbeds for PLC, HMI, robot integration
+- Model-based testing of motion, alarm, and process logic
+- Aligning simulations with production KPIs and downtime analysis
+- Exploring predictive control and control tuning in twin environments
 
-**Tools:**
-- Factory I/O  
-- PLCSIM, RoboGuide, and KUKA.Sim  
-- Python/Simulink (for custom extensions)
+**Tools:**  
+Factory I/O  
+PLCSIM + KUKA.Sim  
+Python, Simulink (optional)
 
 ---
 
-### 📁 Project Integration & Documentation
+## 📁 Module 8: Project Integration & Documentation
 
 **Learning Focus:**
-- Structuring logic, HMI, and network design into cohesive projects
-- Documenting I/O lists, tag tables, sequence charts, and test plans
-- Version-controlling with GitHub and producing clean READMEs
-- Publishing professional reports and visual summaries
+- Building full-featured automation systems
+- Organizing project folders, tag tables, I/O maps, and subroutines
+- Writing Functional Design Specs (FDS), logic comments, and summaries
+- Publishing projects via GitHub Pages and PDF documentation
 
-**Tools:**
-- GitHub + Markdown  
-- Studio 5000 / TIA Portal project export  
-- Screenshots, PDFs, and diagramming tools
+**Tools:**  
+Studio 5000 / TIA Portal  
+Markdown, GitHub, draw.io  
+PDF & screenshot tooling
 
 ---
 
-> This roadmap is continuously evolving as I explore deeper layers of industrial automation, robotics coordination, and intelligent system design. Each module contributes directly to real portfolio projects.
-
+> This roadmap is intentionally modular and ongoing — designed for self-paced learners or professionals who want to bridge theory with real industrial experience. Each module complements a hands-on project and grows into a system-level portfolio.
