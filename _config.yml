@@ -8,5 +8,7 @@ nav:
     url: "/"
   - title: "Projects"
     url: "/projects"
+  - title: "Learning Roadmap"
+    url: "/learning-plan"
   - title: "About Me"
     url: "/about"
