@@ -1,3 +1,8 @@
+---
+layout: default
+title: Learning Roadmap
+nav_order: 4
+---
 # 🧭 Learning Roadmap: Industrial Automation & Robotics
 
 *A growing, module-based map of key technologies, tools, and systems I'm actively learning and applying through hands-on projects.*
