@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-# 🧭 Learning Roadmap: Robotics & Industrial Automation# 🧠 Learning Roadmap: Industrial Automation & Robotics
+# 🧭 Learning Roadmap: Robotics & Industrial Automation
 
 *A modular map of essential technical topics, tools, and real-world systems I'm learning and building — aligned with IEC, ISA, and Industry 4.0 standards.*
 
