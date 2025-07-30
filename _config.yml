@@ -1,16 +1,19 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
 title: "Neel Bhandari"
 description: >-
-  A portfolio showcasing automation & robotics projects
+  A professional portfolio in industrial automation, robotics, and control systems.
 
-include_cached: false
+theme: just-the-docs
 
-author:
-  name: "Neel Bhandari"
-  avatar: "/assets/images/neel.png"  # optional
-  bio: "Industrial Automation | Robotics | PLC | SCADA"
-  location: "Kitchener, ON"
-# Force rebuild
+# Optional settings
+color_scheme: light
+
+# Navigation structure
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Learning Plan"
+    url: /learning-plan
+  - title: "About"
+    url: /about
