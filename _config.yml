@@ -1,13 +1,11 @@
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 title: "Neel Bhandari"
-description: >-
-  A professional portfolio in industrial automation, robotics, and control systems.
+description: "Industrial Automation & Robotics Portfolio"
 
-theme: just-the-docs
-
-# Optional settings
-color_scheme: light
-
-# Navigation structure
+# Optional — customize navigation (Just the Docs 2025+)
 nav:
   - title: "Home"
     url: /
