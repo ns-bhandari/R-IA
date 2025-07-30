@@ -1,14 +1,16 @@
-title: R-IA Portfolio by Neel Bhandari
-remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+title: "Neel Bhandari"
+description: >-
+  A professional portfolio showcasing industrial automation and robotics projects.
 
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Learning Roadmap"
-    url: "/learning-plan"
-  - title: "About Me"
-    url: "/about"
+author:
+  name: "Neel Bhandari"
+  avatar: "/assets/images/neel.png"   # optional
+  bio: "Mechanical & Automation Engineer | PLCs, Robotics, SCADA"
+  location: "Kitchener, ON"
+
+# Optional logo for nav bar
+# logo: "/assets/images/logo.png"
