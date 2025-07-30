@@ -1,16 +1,35 @@
 title: "Neel Bhandari"
 description: >-
-  A professional portfolio showcasing industrial automation and robotics projects.
+  A professional portfolio showcasing industrial automation, robotics, and learning projects.
 
+# ✅ Minimal Mistakes theme via GitHub Pages
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
+# ✅ Fix for GitHub Pages build error
+include_cached: false
+
+# Optional: author info for about page
 author:
   name: "Neel Bhandari"
-  avatar: "/assets/images/neel.png"   # optional
+  avatar: "/assets/images/neel.png"  # Optional: Add image later
   bio: "Mechanical & Automation Engineer | PLCs, Robotics, SCADA"
   location: "Kitchener, ON"
 
-# Optional logo for nav bar
+# Optional: logo for navbar
 # logo: "/assets/images/logo.png"
+
+# Optional: exclude unused files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - package.json
+  - package-lock.json
+  - README.md
+
+# Enable sitemap + SEO if desired later
+# sitemap: true
+# google_analytics: UA-XXXXXXXX-X
