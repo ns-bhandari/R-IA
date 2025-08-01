@@ -33,21 +33,15 @@ Explains logic flow, tag structure, fault control, and scan behavior.
 ---
 
 ### 💡 Ladder Logic Overview  
-Screenshots of seal-in, diverter pulse, reject counter, and fault lockout.
+PDF of seal-in, diverter pulse, reject counter, and fault lockout.
 
-<embed src="ConveyorRejectSystem_LadderLogic.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="LogicOverview_ConveyorRejectSystem.pdf" width="100%" height="600px" type="application/pdf">
 
-[📥 Download Logic PDF](ConveyorRejectSystem_LadderLogic.pdf)
+[📥 Download Logic PDF](LogicOverview_ConveyorRejectSystem.pdf)
 
 ---
 
-## 🖼️ Preview
 
-### Conveyor Running Normally  
-![Normal Conveyor Mode](Conveyor1.png)
-
-### Fault Active After 10 Bad Parts  
-![Batch Fault Triggered](Conveyor2.png)
 
 ---
 
