@@ -23,7 +23,7 @@ Each project is structured to reflect real-world engineering practices, with a f
 
 | Project | Description |
 |--------|-------------|
-| [🚰 Project 1: Pump Control System with PID & Alarm Handling](projects/Project02_PumpControlSystem) | A complete control logic system simulating a tank-based flow process. Includes dual-mode control (Manual + PID Auto), alarm latching logic, analog signal scaling (4–20 mA), and modular Studio 5000 routines. Fully emulator-compatible. |
+| [🚰 Project 2: Pump Control System with PID & Alarm Handling](projects/Project02_PumpControlSystem) | A complete control logic system simulating a tank-based flow process. Includes dual-mode control (Manual + PID Auto), alarm latching logic, analog signal scaling (4–20 mA), and modular Studio 5000 routines. Fully emulator-compatible. |
 
 ---
 
