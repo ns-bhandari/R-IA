@@ -3,7 +3,7 @@ layout: default
 nav_exclude: true
 ---
 
-# 🚰 Project 1: Pump Control System with PID & Alarm Handling
+# 🚰 Project 2: Pump Control System with PID & Alarm Handling
 
 This project simulates a real-world pump-tank automation system using **Rockwell Studio 5000** and **Logix Emulate**. It supports both **manual and PID-driven automatic modes**, with analog signal scaling, alarm latching, and modular ladder logic.
 
