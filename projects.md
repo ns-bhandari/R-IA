@@ -19,12 +19,12 @@ Each project is structured to reflect real-world engineering practices, with a f
 
 ---
 
-### ✅ Featured Project
+### ✅ Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [Project01_Smart Conveyor System with Automated Inspection](projects/Project01_SmartConveyorSystemwithAutomatedInspection)| A three-zone conveyor modeled entirely in Rockwell Studio 5000/Emulate. Demonstrates structured ladder logic with AOIs/UDTs, safety interlocks, process alarms, part inspection with FIFO tracking, and automated rejection of defective parts. |
-| [🚰 Project 2: Pump Control System with PID & Alarm Handling](projects/Project02_PumpControlSystem) | A complete control logic system simulating a tank-based flow process. Includes dual-mode control (Manual + PID Auto), alarm latching logic, analog signal scaling (4–20 mA), and modular Studio 5000 routines. Fully emulator-compatible. |
+| [Project 1: Smart Conveyor System with Automated Inspection](projects/Project01_SmartConveyorSystemwithAutomatedInspection)| A three-zone conveyor modeled entirely in Rockwell Studio 5000/Emulate. Demonstrates structured ladder logic with AOIs/UDTs, safety interlocks, process alarms, part inspection with FIFO tracking, and automated rejection of defective parts. |
+| [Project 2: Pump Control System with PID & Alarm Handling](projects/Project02_PumpControlSystem) | A complete control logic system simulating a tank-based flow process. Includes dual-mode control (Manual + PID Auto), alarm latching logic, analog signal scaling (4–20 mA), and modular Studio 5000 routines. Fully emulator-compatible. |
 
 ---
 
