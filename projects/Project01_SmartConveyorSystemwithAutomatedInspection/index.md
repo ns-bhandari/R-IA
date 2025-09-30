@@ -39,15 +39,18 @@ The project models an industrial **inspection line** such as those used in packa
 
 ## 📂 Project Files
 
-- [Project Report (PDF)](ProjectSummary_SmartConveyorSystemwithAutomatedInspection)
+- [Project Overview]
 <embed src="ProjectSummary_SmartConveyorSystemwithAutomatedInspection.pdf/" width="100%" height="600px" type="application/pdf">
+(ProjectSummary_SmartConveyorSystemwithAutomatedInspection.pdf)
 
-- [Ladder Logic Documentation (PDF)](LadderLogic.pdf)  
+- [Ladder Logic]  
 <embed src="LadderLogic.pdf/" width="100%" height="600px" type="application/pdf">
+(LadderLogic.pdf)
 
 
-- [AOIs Documentation (PDF)](AOI.pdf)
+- [AOIs]
 <embed src="AOI.pdf/" width="100%" height="600px" type="application/pdf">
+(AOI.pdf)
 
 ---
 
