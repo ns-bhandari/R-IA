@@ -140,6 +140,7 @@ This project demonstrates proficiency in:
 - **Traffic Control Systems** - Signal phasing, emergency preemption, pedestrian safety
 - **Safety-Critical Logic** - Conflict detection, clearance intervals, interlocking
 - **Modular Architecture** - 9 organized routines with comprehensive documentation
+
 ---
 
 
