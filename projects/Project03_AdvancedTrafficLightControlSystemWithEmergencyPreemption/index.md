@@ -83,7 +83,7 @@ This project demonstrates professional traffic control system design with real-w
 
 **All Red Clearance**
 
-![All Red State](1.PNG)
+[All Red State](1-Copy.PNG)
 
 - All directions showing red
 - 2-second intersection clearance
@@ -142,10 +142,5 @@ This project demonstrates proficiency in:
 - **Modular Architecture** - 9 organized routines with comprehensive documentation
 ---
 
-
----
-
-
----
 
 [🔙 Back to Projects](../../projects)
