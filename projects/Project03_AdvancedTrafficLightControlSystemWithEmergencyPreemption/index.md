@@ -26,9 +26,68 @@ This project demonstrates professional traffic control system design with real-w
 - **Pedestrian Safety System** — Walk/Don't Walk signals with flashing countdown and timing coordination
 - **Conflict Detection** — Real-time monitoring prevents simultaneous green signals with automatic safety beacon activation
 - **Modular State Machine** — Clean 6-state cycle: NS Green → NS Yellow → All Red → EW Green → EW Yellow → All Red
+- **HMI Development** — Complete FactoryTalk View ME interface with real-time visualization and operator controls
 - **Comprehensive Documentation** — Fully commented ladder logic with clear routine organization
 
 ---
+
+## 🖥️ HMI Screenshots
+
+### Main Visualization Screen
+
+![Main Screen - NS Green](1.png)
+
+**Features:**
+- Four-way intersection layout with real-time traffic light visualization
+- Pedestrian walk/don't walk indicators (NS and EW)
+- Interactive pedestrian request buttons
+- System shutdown control
+- Tab navigation for Status and Manual Mode
+
+---
+
+### System Status Dashboard
+
+![Status Screen](3.PNG)
+
+**Real-Time Monitoring:**
+- Current State display (States 1-8 with descriptions)
+- Time-of-Day Mode indicator (Night, Normal, Rush Hour NS, Rush Hour EW)
+- Emergency Status indicator (Active/Not Active)
+- Clean, at-a-glance system overview
+
+---
+
+### Manual Mode Controls
+
+![Manual Mode Screen](4.PNG)
+
+**Operator Control Panel:**
+- Manual Mode enable/disable toggle
+- Independent NS Green override
+- Independent EW Green override
+- All Red override for maintenance
+- Direct operator control with safety interlocks maintained
+
+---
+
+### Intersection States
+
+**State 1: NS Green Active**
+
+![NS Green State](2.PNG)
+
+- North-South direction: Green light active
+- East-West direction: Red lights active
+- Pedestrian signals coordinated with traffic flow
+
+**All Red Clearance**
+
+![All Red State](1.PNG)
+
+- All directions showing red
+- 2-second intersection clearance
+- Safety buffer between opposing flows
 
 ##  Project Documentation
 
@@ -86,9 +145,6 @@ This project demonstrates proficiency in:
 
 ---
 
-##  Download Project Files
-
-**[Complete Studio 5000 Project (.ACD)](./Traffic_Light_Control.ACD)** — Import-ready project file
 
 ---
 
