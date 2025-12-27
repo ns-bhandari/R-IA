@@ -83,7 +83,7 @@ This project demonstrates professional traffic control system design with real-w
 
 **All Red Clearance**
 
-![All Red State](1Copy.PNG)
+![All Red State](5.PNG)
 
 - All directions showing red
 - 2-second intersection clearance
